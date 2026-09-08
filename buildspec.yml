@@ -30,4 +30,3 @@ artifacts:
     - appspec.yml
     - scripts/**/*
   discard-paths: no
-  packaging: zip 
